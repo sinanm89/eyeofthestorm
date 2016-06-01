@@ -15,7 +15,7 @@ classifiers = [
 
 setup(
     name="eyeofthestorm",
-    version="0.1",
+    version="0.2",
     packages=find_packages(),
     install_requires=["Twisted >= 12.1.0"],
     author="David Novakovic",
